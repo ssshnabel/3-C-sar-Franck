@@ -1,12 +1,10 @@
 # Hey 🪄 This page is about organist César Franck 🎹
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
 <a href="https://ssshnabel.github.io/Cesar-Franck/">
   <img src="https://img.shields.io/badge/See the result-ff69b4" width="150" alt="GitHub Badge"/>
 </a>
 <br>
 <br>
-<b>Languages and Tools</b>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Languages+and+Tools;)](https://git.io/typing-svg)
 <br>
 <br>
 <div>
