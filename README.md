@@ -4,7 +4,7 @@
 </a>
 <br>
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Languages+and+Tools;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Languages+and+Tools)](https://git.io/typing-svg)
 <br>
 <br>
 <div>
