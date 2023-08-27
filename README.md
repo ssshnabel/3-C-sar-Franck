@@ -4,15 +4,16 @@
 </a>
 <br>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=20&color=000000&width=435&lines=Languages+and+tools" alt="Typing SVG" /></a>
+<div>
+  <b>Languages and Tools</b>
+</div>
+<br>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Html" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>&nbsp;
 </div>
 <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&color=000000&width=435&lines=Contact+me" alt="Typing SVG" /></a>
-<br> 
-   <b>&nbsp;💬&nbsp; marinashnabel@gmail.com</b>
+<b>Contact me &nbsp;💬&nbsp; marinashnabel@gmail.com</b>
 <br>
 <br>
 <a href="https://t.me/shnabelll">
